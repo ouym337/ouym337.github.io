@@ -1,0 +1,8 @@
+title: Ouym337.GitHub.io
+description: Ouyang Meng's personal blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
