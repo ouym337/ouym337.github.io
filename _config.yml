@@ -1,7 +1,7 @@
-title: Ouym337.GitHub.io
-description: Ouyang Meng's personal blog
+title: Ouyang Meng's personal blog
+description: Ouym337.GitHub.io
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
 
 gems:
